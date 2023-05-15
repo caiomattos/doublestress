@@ -5,15 +5,15 @@ This repo contains the scripts used to generate the data and figures for the pap
 ## Authors and affiliations
 
 * Caio R. C. Mattos
-    * [Department of Earth and Planetary Sciences, Rutgers University, New Brunswick, NJ, USA]
+    * Department of Earth and Planetary Sciences, Rutgers University, New Brunswick, NJ, USA
 * Marina Hirota
-    * [Department of Physics, Federal University of Santa Catarina, Florianopolis, Brazil]
-    * [Department of Plant Biology, University of Campinas, Campinas, Brazil]
-    * [Graduate Program in Ecology, Federal Universiy of Santa Catarina, Florianopolis, Brazil]
+    * Department of Physics, Federal University of Santa Catarina, Florianopolis, Brazil
+    * Department of Plant Biology, University of Campinas, Campinas, Brazil
+    * Graduate Program in Ecology, Federal Universiy of Santa Catarina, Florianopolis, Brazil
 * Rafael S. Oliveira
-    * [Department of Plant Biology, University of Campinas, Campinas, Brazil]
+    * Department of Plant Biology, University of Campinas, Campinas, Brazil
 * Bernardo M. Flores
-    * [Graduate Program in Ecology, Federal Universiy of Santa Catarina, Florianopolis, Brazil]
+    * Graduate Program in Ecology, Federal Universiy of Santa Catarina, Florianopolis, Brazil
 * Gonzalo Miguez-Macho
     * Non-Linear Physics Group, University of Santiago de Compostela, Galicia, Spain
 * Yadu Pokhrel
