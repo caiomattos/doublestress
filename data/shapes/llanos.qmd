@@ -1,0 +1,58 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.24.0-Tisler">
+  <identifier>wwf_terr_ecos</identifier>
+  <parentidentifier></parentidentifier>
+  <language>EN</language>
+  <type>dataset</type>
+  <title>wwf_terr_ecos</title>
+  <abstract>This map depicts the 825 terrestrial ecoregions of the globe. Ecoregions are relatively large units of land containing distinct assemblages of natural communities and species, with boundaries that approximate the original extent of natural communities prior to major land-use change. This comprehensive, global map provides a useful framework for conducting biogeographical or macroecological research, for identifying areas of outstanding biodiversity and conservation priority, for assessing the representation and gaps in conservation efforts worldwide, and for communicating the global distribution of natural communities on earth. We have based ecoregion delineations on hundreds of previous biogeographical studies, and refined and synthesized existing information in regional workshops over 10 years to assemble the global dataset. Ecoregions are nested within two higher-order classifications: biomes (14) and biogeographic realms (8). Together, these nested classification levels provide a framework for comparison among units and the identification of representative habitats and species assemblages. Ecoregions have increasingly been adopted by research scientists, conservation organizations, and donors as a framework for analyzing biodiversity patterns, assessing conservation priorities, and directing effort and support (Ricketts et al. 1999a; Wikramanayake et al. 2001; Ricketts et al. 1999b; Olson &amp; Dinerstein 1998; Groves et al. 2000; Rosenzweig et al. 2003; and Luck et al. 2003). More on the approach to ecoregion mapping, the logic and design of the framework, and previous and potential uses are discusses in Olson et al. (2001) and Ricketts et al. (1999a). Groves, C., L. Valutis, D. Vosick, B. Neely, K. Wheaton, J. Touval, and B. Runnels. 2000. Designing a Geography of Hope: A practitioner's handbook to ecoregional conservation planning. The Nature Conservancy, Arlington, VA. Luck, G.W., T.H. Ricketts, G.C. Daily, M. Imhoff (2003). Spatial conflict between people and biodiversity. Procedings of the National Academy of Sciences - US. 101(1):182-186. Olson, D.M., and E. Dinerstein. 1998. The Global 200: a representation approach to conserving the Earth's most biologically valuable ecoregions. Conservation Biology 12:502-515. Olson, D.M., E. Dinerstein, E.D. Wikramanayake, N.D. Burgess, G.V.N. Powell, E.C. Underwood, J.A. D'Amico, I. Itoua, H.E. Strand, J.C. Morrison, C.J. Loucks, T.F. Allnutt, T.H. Ricketts, Y. Kura, J.F. Lamoreux, W.W. Wettengel, P. Hedao, and K.R. Kassem. 2001. Terrestrial ecoregions of the world: New map of life on earth. Bioscience 51(11):933-938. Ricketts, T.H., E. Dinerstein, D.M. Olson, C. Loucks. 1999. Who's where in North America? Patterns of species richness and the utility of indicator taxa for conservation. Bioscience 49(5):369-381. Ricketts, T.H., E. Dinerstein, D.M. Olson, C.J. Loucks, W. Eichbaum, K. Kavanagh, P. Hedao, P. Hurley, K.M. Carney, R. Abell, and S. Walters. 1999. Ecoregions of North America: A conservation assessment. Island Press. Washington DC. 485 pp. Rosenzweig, M.L., W. Turner, J.G. Cox, and T.H. Ricketts. 2003. Estimating diversity in unsampled habitats of a biogeographical province. Conservation Biology 17(3):864-874. Wikramanayake, E., E. Dinerstein, C. Loucks, D. Olson, J. Morrison, J. Lamoreux, M. McKnight, and P. Hedao. 2001. Terrestrial ecoregions of the Indo-Pacific: a Conservation assessment. Island Press, Washington, DC.
+
+biogeography, biodiversity conservation and priority setting.
+
+Delineation of ecoregions: We began by accepting the biogeographic realms of Pielou (1979) and Udvardy (1975) and modifying the biome systems of Dinerstein et al. (1995) and Ricketts et al. (1999). We then consulted existing global maps of floristic or zoogeographic provinces, global and regional maps of units based on the distribution of selected groups of plants and animals, the world's biotic province maps, and global maps of broad vegetation types. These were useful for evaluating the extent of realms and biomes, the first two tiers in our hierarchical classification. We then identified published regional classification systems to be used as a baseline for ecoregion boundaries. Data and consultations from regional experts were also important for final ecoregion delineations. Caveats: Three caveats are appropriate for all biogeographic mapping approaches. First, no single biogeographic framework is optimal for all taxa. Ecoregions reflect the best compromise for as many taxa as possible. Second, ecoregion boundaries rarely form abrupt edges; rather, ecotones and mosaic habitats bound them. Third, most ecoregions contain habitats that differ from their assigned biome (e.g., for example, rainforest ecoregions in Amazonia often contain small edaphic savannas). With these caveats in mind, ecoregions can form useful units for biological analysis and for conservation planning and action. More information: Please consult citations listed here and with abstract, and references therein, for additional information on these ecoregions and the analyses and assessments for which they are suited. http://www.worldwildlife.org/ecoregions Dinerstein E, Olson DM, Graham DJ, Webster A L , Primm SA, Bookbinder M P, Ledec G. 1995 .A Conservation Assessment of the Terrestrial Ecoregions of Latin America and the Caribbean .Washington (DC) :World Bank. Pielou EC. 1979 . Biogeography. New York: John Wiley and Sons. Ricketts, T.H., E. Dinerstein, D.M. Olson, C. Loucks. 1999. Who's where in North America? Patterns of species richness and the utility of indicator taxa for conservation. Bioscience 49(5):369-381. Udvardy MDF. 1975 .A classification of the biogeographical provinces of the world Morges (Switzerland): International Union of Conservation of Nature and Natural Resources. IUCN Occasional Paper no. 18.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>ecoregions</keyword>
+    <keyword></keyword>
+    <keyword></keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type>mailing and physical address</type>
+      <address>1250 24th St  NW</address>
+      <city>Washington</city>
+      <administrativearea>DC</administrativearea>
+      <postalcode>20037</postalcode>
+      <country>USA</country>
+    </contactAddress>
+    <name>Conservation Science Program - World Wildlife Fund</name>
+    <organization>Conservation Science Program - World Wildlife Fund</organization>
+    <position></position>
+    <voice>202-822-3452</voice>
+    <fax></fax>
+    <email>nasser.olwero@wwfus.org</email>
+    <role>Point of contact</role>
+  </contact>
+  <links>
+    <link description="" name="Shapefile" format="" url="file://\\SASQUATCH\DATA\ecoregions\version_2\newest version\wwf_terr_ecos" type="Local Area Network" size="" mimeType=""/>
+  </links>
+  <fees></fees>
+  <constraints type="Access">This data is available for use for valid scientific, conservation, and educational purposes. </constraints>
+  <rights>Any modification of the original map by users to ecoregion boundaries, units, names, or realm and biome classes must be noted. </rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial maxx="179.99998899999999935" dimensions="2" maxz="0" minz="0" minx="-179.99998899999999935" maxy="83.62312500000000171" crs="EPSG:4326" miny="-89.89197299999999302"/>
+  </extent>
+</qgis>
