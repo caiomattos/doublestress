@@ -1,6 +1,6 @@
 # Double Stress 
 
-This repo contains the scripts used to generate the data and figures for the paper "Double stress of waterlogging and drought drives forest-savanna coexistence" ([doi]).
+This repo contains the scripts used to generate the data and figures for the paper "Double stress of waterlogging and drought drives forest-savanna coexistence" PNAS (2023) ([10.1073/pnas.2301255120]).
 
 ## Authors and affiliations
 
